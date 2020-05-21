@@ -1,7 +1,7 @@
 {
-  "name": "数据持续更新（5月20更新）",
+  "name": "数据持续更新（5月21更新）",
   "author": "九思",
-  "version": "20200520",
+  "version": "20200521",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
